@@ -1,3 +1,4 @@
-
-11/ZTrans\SellerNameDescriptionCode.txt
-*.txt
+data/
+*.pickle
+*.pickle
+df.pickle
