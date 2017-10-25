@@ -4,3 +4,4 @@ data/
 df.pickle
 .ipynb_checkpoints/
 .ipynb_checkpoints/*
+.ipynb_checkpoints/data_fixing_workspace-checkpoint.ipynb
