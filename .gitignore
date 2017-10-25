@@ -2,3 +2,5 @@ data/
 *.pickle
 *.pickle
 df.pickle
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
